@@ -1,2 +1,2 @@
 # LSTM scratch buit
-LSTM implementation in python
+LSTM(Long Short Term Memory RNN variant) implementation in python
